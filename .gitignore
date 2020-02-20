@@ -1,4 +1,4 @@
-
-.idea/*
-_TestFiles/*
-_backup/*
+# python
+.idea/
+_TestFiles/
+_backup/
